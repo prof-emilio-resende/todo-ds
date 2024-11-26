@@ -1,8 +1,8 @@
 # 1: Criar arquivos
 
--   mkdir htmlApp
+-   mkdir todoDS
 -   design.html
--   design.css
+-   src/design.css
 
 # 2: Iniciar projeto npm
 
